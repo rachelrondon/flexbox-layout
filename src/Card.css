@@ -1,0 +1,41 @@
+.card {
+  margin: 1rem;
+  min-height: 10rem;
+  min-width: 5rem;
+  padding: 0.5rem;
+}
+
+.card-one {
+  background-color: #dae4f9;
+  flex-grow: 1;
+}
+
+.card-two {
+  background-color: #dae4f9;
+  flex-grow: 4;
+}
+
+.card-three {
+  background-color: #bdcef2;
+  flex-grow: 2;
+}
+
+.card-four {
+  background-color: #bdcef2;
+  flex-grow: 1;
+}
+
+.card-five {
+  background-color: #bdcef2;
+  flex-grow: 2;
+}
+
+.card-six {
+  background-color: #a5bbed;
+  flex-grow: 4;
+}
+
+.card-seven {
+  background-color: #a5bbed;
+  flex-grow: 1;
+}
