@@ -4,17 +4,17 @@
   margin: 5rem 3rem;
 }
 
-.card-top {
+.card-container-top {
   display: flex;
   flex-direction: row;
 }
 
-.card-middle {
+.card-container-middle {
   display: flex;
   flex-direction: row;
 }
 
-.card-bottom {
+.card-container-bottom {
   display: flex;
   flex-direction: row;
 }
